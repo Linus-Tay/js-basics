@@ -64,3 +64,5 @@ greet(name, lastName1);
 
 let number = square(2);
 console.log(number);
+
+console.log('test')
