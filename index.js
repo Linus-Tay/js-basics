@@ -95,3 +95,5 @@ console.log(firstName1);
 
 const interestRate = 0.3;
 console.log(interestRate)
+
+// Please work for the love of God
