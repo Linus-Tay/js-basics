@@ -66,3 +66,5 @@ let number = square(2);
 console.log(number);
 
 console.log('test')
+
+console.log('test')
